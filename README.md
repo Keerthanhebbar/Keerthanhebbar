@@ -1,8 +1,7 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Keerthan Hebbar</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Designer from India.</h3>
 
-<img aling="center" alt="coding" width="400" src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e478e97aonekaf5kpip918kp6by2pi5t9rx4hnmjwbe&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align= "right" alt="coding" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478rcbrxw2g3es78bpvue81mhi53mh0qm3l1p8pg6j&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthanhebbar&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanhebbar" /> </p>
 
