@@ -9,7 +9,7 @@
 
 - 👯 I’m currently working on **Connect Hub**
 
-- 💬 Ask me about **Frontend or UI/UX Designs**
+- 💬 Ask me about **Frontend and UI/UX Designs**
 
 - 📫 How to reach me **keerthanhebbar18@gmail.com**
 
