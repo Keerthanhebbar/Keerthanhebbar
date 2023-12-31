@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Nodejs**
 
-- 👯 I’m currently working on **Connect Hub** & **Talk Sync**
+- 👯 I’m currently working on **Talk Sync**
 
 - 💬 Ask me about **Frontend,UI/UX**
 
